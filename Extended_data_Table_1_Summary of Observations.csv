@@ -1,0 +1,30 @@
+Observer Initials,Observation start time (UTC),Duration (min),Location,Exposure time (s),# frames,PSF FWHM (arcsec)
+P. H. (1),2022 Sep 26 23:09:49,10,"Le Tampon, Reunion",1,596,7.0 +- 0.4
+B. P.,2022 Sep 26 22:54:32,40,"L’Etang-Sale, Reunion",4,624,6.29 +- 2.0
+M. L.,2022 Sep 26 23:10:45,10,"Saint Paul, Reunion",1,597,5.9 +- 0.4
+M. P.,2022 Sep 27 08:10:07,50,"Austin, TX, USA",4,759,18 +- 2
+S. W,2022 Sep 27 09:04:06,10,"Raleigh, NC, USA",4,103,5.9 +- 0.2
+D. R.,2022 Sep 27 11:39:57,80,"Warners Bay, Australia",4,1059,5.6 +- 0.2
+M. P.,2022 Sep 29 08:03:06,40,"Austin, TX, USA",4,568,10.26 +- 2.5
+J. R.,2022 Sep 28 08:47:46,180,"Athens, GA, USA",4,1243,13.6 +- 0.4
+M. R.,2022 Sep 29 10:08:40,40,"Cudahy, WI, USA",4,193,9.3 +- 0.4
+M. S.,2022 Sep 29 18:20:08,90,"Shimoishii, Japan",4,1279,8.6 +- 0.3
+T. G.,2022 Sep 30 17:30:08,80,"Nagahama, Japan",4,1231,3.9 +- 0.6
+K. F.,2022 Sep 30 17:55:15,110,"Nagakunidai, Japan",4,1557,6.0 +- 0.4
+J.-P. T.,2022 Sep 30 22:36:44,6,Seychelles,4,95,4.4 +- 0.7
+T. G.,2022 Oct 01 16:55:38,120,"Nagahama, Japan",4,1217,6.8 +- 0.4
+K. F.,2022 Oct 01 17:25:11,80,"Nagakunidai, Japan",4,866,6.3 +- 0.35
+R. K.,2022 Oct 03 15:58:01,90,"Kajiki Aira, Japan",4,578,4.1 ± 0.6
+W.-C. Y.,2022 Oct 03 16:20:05,220,Hong Kong,4,1345,3.7 ± 0.5
+J. R.,2022 Oct 14 08:54:15,30,"Athens, GA, USA",4,425,13.4 +- 1.5
+J. R.,2022 Oct 15 07:54:53,30,"Athens, GA, USA",4,468,5.7 +- 0.3
+B. G.,2022 Oct 17 03:29:54,110,"Epron, France",4,1425,5.2 +- 0.5
+J. R.,2022 Oct 18 09:03:07,30,"Athens, GA, US",4,176,5.1 +- 0.5
+K. F.,2022 Oct 20 19:01:10,40,"Nagakunidai, Japan",4,561,6.8 +- 1.0
+P. H. (2),2022 Oct 20 08:38:31,130,"Leechburg, PA, USA",4,1871,7.3 +- 0.8
+J. R.,2022 Oct 22 06:32:53,30,"Athens, GA, USA",4,469,5.4 +- 0.5
+J. R.,2022 Oct 23 09:52:59,30,"Athens, GA ,USA",4,469,4.2 +- 0.4
+D. A. R.,2022 Oct 25 17:25:51,40,"Warners Bay, Australia",4,457,5.9 +- 0.2
+T. G.,2022 Oct 26 17:51:37,30,"Nagahama, Japan",4,481,4.9 +- 0.2
+K. F.,2022 Oct 26 18:28:15,40,"Nagakunidai, Japan",4,658,5.9 +- 0.4
+M .M.,2022 Oct 30 06:45:23,130,"Oklahoma, OK, USA",4,1869,5.7 +- 0.6
